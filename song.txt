@@ -4,11 +4,4 @@ Line 3
 Line 4
 Line 5
 Line 6
-<<<<<<< HEAD
-Line 7 
-=======
-Line 7
 
-
-New commit
->>>>>>> f72c1c9 (added line)
